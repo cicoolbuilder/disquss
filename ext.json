@@ -1,0 +1,11 @@
+{
+	"name" : "disquss ",
+	"description" : "disquss ",
+    "type" : "page",
+    "version" : "1.0",
+    "author" : "cicool",
+	"regid" : "disquss",
+	"loader" : [
+		"disquss.php"
+	]
+}
